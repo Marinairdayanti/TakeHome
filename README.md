@@ -1,2 +1,3 @@
 # TakeHome
-ngoding
+meliputi :
+Tubes, latian2 lainnya
